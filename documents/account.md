@@ -42,3 +42,12 @@
 # telegram VPS
 - user: root
 - pwd: 常规13个字符，首字母大写
+
+# 欧意APP
+- user: haifeng_zhang_it@163.com
+- pwd: 常规13个字符，首字母大写，&连接两部分
+
+# 代理账号(悠兔)
+- url https://youtu.shop/#/dashboard
+- user:  haifeng_zhang_it@163.com
+- pwd: 平庸的8个字符
