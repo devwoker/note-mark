@@ -51,3 +51,11 @@
 - url https://youtu.shop/#/dashboard
 - user:  haifeng_zhang_it@163.com
 - pwd: 平庸的8个字符
+
+# TronGrid(波场)
+- user: 163邮箱
+- 常规13个字符
+
+# [Okex](https://www.vkhwabf.cn/cn)
+- user: phone
+- 常规13个字符首字母大写，中间用&分隔
